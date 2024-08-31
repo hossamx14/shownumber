@@ -2,7 +2,7 @@ import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 # أدخل توكن البوت ومعرف المستخدم الذي سترسل إليه جهة الاتصال
-BOT_TOKEN = '7163761474:AAFJ1621rpkmzz6P5L_dpVTPXcw96awLKvY'
+BOT_TOKEN = '6801162891:AAHjDpfRUnRMJSr3dmsqoGsZwEPumUn5yNw'
 ADMIN_USER_ID = 5588702212  # استبدل هذا بمعرف المستخدم الخاص بك
 
 bot = telebot.TeleBot(BOT_TOKEN)
